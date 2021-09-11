@@ -6,7 +6,7 @@ public class FisrtClass {
 
         System.out.println("this is first");
         System.out.println("idfid");
-        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
+        System.out.println("id");
 
         System.out.println("");
     }
